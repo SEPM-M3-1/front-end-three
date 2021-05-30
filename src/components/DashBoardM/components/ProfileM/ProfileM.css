@@ -1,0 +1,41 @@
+.profileBox {
+  padding: 30px;
+  border: 1px black solid;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.itemLabel {
+  padding-top: 10px;
+}
+
+.resetPassword {
+  padding: 30px;
+  border: 1px black solid;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.resetBox {
+  margin-top: 50px;
+}
+
+.resetPasswordButton {
+  padding: 30px;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
